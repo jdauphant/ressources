@@ -1,4 +1,4 @@
-# Free Ressources
+# Ressources
 
 It's websites or services I found interesting (I haven't tried everythings).
 All comments more are welcomed :)
