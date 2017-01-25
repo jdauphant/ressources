@@ -7,6 +7,7 @@ All comments more are welcomed :)
 
 - https://unsplash.com/
 - https://pixabay.com/
+- https://www.pexels.com/
 
 ## UI/UX
 
