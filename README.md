@@ -68,6 +68,7 @@ All comments more are welcomed :)
 - https://mailcatcher.me/
 - https://www.mailinator.com/
 - https://debugmail.io
+- https://github.com/mailhog/MailHog
 
 ## Development Guidelines
 
