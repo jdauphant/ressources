@@ -37,6 +37,11 @@ All comments more are welcomed :)
 
 - http://www.import.io
 
+
+## HTML Template
+
+- https://html5up.net/
+
 ## Automation
 
 - https://ifttt.com/
