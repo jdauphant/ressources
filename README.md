@@ -62,6 +62,12 @@ All comments more are welcomed :)
 
 - https://firebase.google.com/
 
+## Email testing for development
+
+- https://mailtrap.io
+- https://mailcatcher.me/
+- https://www.mailinator.com/
+
 ## Development Guidelines
 
 - http://williamdurand.fr/2013/06/03/object-calisthenics
@@ -107,3 +113,4 @@ All comments more are welcomed :)
 ## Personal development
 
 - https://blog.bufferapp.com/what-multitasking-does-to-our-brains
+
