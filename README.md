@@ -67,6 +67,7 @@ All comments more are welcomed :)
 - https://mailtrap.io
 - https://mailcatcher.me/
 - https://www.mailinator.com/
+- https://debugmail.io
 
 ## Development Guidelines
 
