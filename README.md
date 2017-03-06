@@ -121,3 +121,6 @@ All comments more are welcomed :)
 
 - https://blog.bufferapp.com/what-multitasking-does-to-our-brains
 
+## DNS Redirect
+
+- http://redirect.center/
